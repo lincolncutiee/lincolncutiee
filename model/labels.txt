@@ -1,0 +1,10 @@
+0 Jollibee logo
+1 McDonald logo
+2 KFC logo
+3 Chowking logo
+4 Greenwich logo
+5 Mang Inasal logo
+6 Burger king logo
+7 Shakeys logo
+8 Pizza Hut logo
+9 Goldilocks logo
