@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884191597472",
+    "project_id": "fastfood-logo-app",
+    "storage_bucket": "fastfood-logo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884191597472:android:ab9f57a8191080bd71cac5",
+        "android_client_info": {
+          "package_name": "com.example.fastfood_logo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3L9lZR0cX6BZY5G0KK-5q9r-3neN1qWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
